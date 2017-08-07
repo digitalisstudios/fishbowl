@@ -2,7 +2,6 @@
     "name": "digitalisstudios/fishbowl",
     "description": "Fishbowl PHP Api",
     "keywords": ["framework", "accretion", "fishbowl", "php", "api"],
-    "version": "1.0",
     "license": "MIT",
     "type": "library",
     "require": {
