@@ -10,7 +10,7 @@
     "autoload" : {
         "classmap" : {
             "FishbowlAPI" : "FishbowlAPI/FishbowlAPI.php",
-            "FBErrorCodes" : "FishbowlAPI/fbErrorCodes.class.php",
+            "FBErrorCodes" : "FishbowlAPI/fbErrorCodes.class.php"
         }
     },
     "require-dev": {
