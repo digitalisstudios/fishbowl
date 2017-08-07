@@ -8,7 +8,7 @@
         "php": ">=5.4"
     },
     "autoload" : {
-        "classmap" : {"vendor/digitalisstudios/fishbowl/FishbowlAPI" : "vendor/digitalisstudios/fishbowl/FishbowlAPI/FishbowlAPI.php"}
+        "classmap" : {"FishbowlAPI" : "FishbowlAPI.php"}
     },
     "require-dev": {
 
